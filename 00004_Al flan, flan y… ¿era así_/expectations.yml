@@ -11,7 +11,4 @@ expectations:
   inspection: DeclaresComputationWithArity2:ServirFlan
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
-  inspection: Not:Uses:Poner
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Intransitive:program
   inspection: Not:Uses:Sacar
