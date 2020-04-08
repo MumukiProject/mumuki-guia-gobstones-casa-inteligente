@@ -1,0 +1,1 @@
+El procedimiento `Batir` tiene dos ingredientes como parámetro y ya lo hicimos por vos.
