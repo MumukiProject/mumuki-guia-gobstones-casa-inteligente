@@ -14,4 +14,4 @@ expectations:
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Mezclar
-  inspection: Uses:Batir con_ y_
+  inspection: Uses:BatirCon_Y_
