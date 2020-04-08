@@ -1,6 +1,6 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/attires/config_1586355209409.json"></gs-attire>
 
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/toolbox_1586288680018.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/toolbox_1586288680018.xml"></gs-toolbox> 
 
 ¡Es hora de integrar los ingredientes! A Cheftrón ya le mostramos cómo mezclar la leche :milk: con el azúcar, ahora sólo nos falta agregarle los huevos :egg:. Un momento… ¡casi nos olvidamos del caramelo! :scream: Para eso vamos a tener que mezclar agua con azúcar. ¡Vamos!
 
