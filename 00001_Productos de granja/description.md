@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/attires/config_1586355209409.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/attires/config_1586358266012.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-casa-inteligente/master/assets/toolbox_1586288680018.xml"></gs-toolbox>
 
