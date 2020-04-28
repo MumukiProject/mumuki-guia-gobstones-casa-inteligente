@@ -12,3 +12,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: VerterMezcla
   inspection: Uses:mezcla
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: VerterMezcla
+  inspection: UsesWhile
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:UsesWhile
